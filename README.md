@@ -1,4 +1,4 @@
-# Basic Message Queue in Go
+# Message Queue in Go
 
 This is a basic implementation of a message queue system written in Go. It demonstrates a fundamental asynchronous communication protocol, allowing for a constant stream of data between applications.
 
